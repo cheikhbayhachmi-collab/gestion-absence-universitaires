@@ -1,15 +1,31 @@
 
-les acteur du systeme:
+les Acteur du systeme:
+1️⃣Administrateur
 
+Ajoute/retire étudiants
 
-1)Étudiant
+Ajoute/retire enseignants
 
-consulte ses absences
+Saisit ou modifie les absences
 
-2)Enseignant
+Génère des rapports pour la direction
 
-enregistre les absences de ses étudiants
+2️⃣ Enseignant
 
-3)Administrateur
+Enregistre les absences de ses étudiants
 
-gère les classes, modules et enseignants
+Consulte ses propres absences (absences d’enseignant)
+
+Demande une correction à l’administrateur
+
+3️⃣ Étudiant
+
+Consulte ses absences
+
+Demande une justification
+
+4️⃣ Chef de département
+
+Visualise les absences de tous les enseignants
+
+Suivi de la discipline pédagogique
