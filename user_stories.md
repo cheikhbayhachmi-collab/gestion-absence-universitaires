@@ -1,25 +1,32 @@
 
-Les 7 User Stories:
+plus de  7 User Stories:
 
 Format : “En tant que…, je veux…, afin de…”
 
-US1 :
-En tant qu’enseignant, je veux voir la liste de mes classes afin de choisir celle pour laquelle je veux enregistrer les absences.
 
-US2 :
-En tant qu’enseignant, je veux marquer un étudiant absent afin de suivre sa présence.
+🔵 Absences des étudiants
 
-US3 :
-En tant qu’étudiant, je veux consulter mes absences afin de suivre ma situation.
+US1 – En tant qu’enseignant, je veux enregistrer l’absence d’un étudiant afin de suivre sa présence en cours.
 
-US4 :
-En tant qu’administrateur, je veux ajouter un étudiant afin qu’il soit pris en compte dans le système.
+US2 – En tant qu’étudiant, je veux consulter mes absences afin de connaître ma situation.
 
-US5 :
-En tant qu’administrateur, je veux gérer les modules et les classes afin d’organiser les cours.
+US3 – En tant qu’enseignant, je veux modifier une absence d’un étudiant afin de corriger une erreur.
 
-US6 :
-En tant qu’enseignant, je veux modifier une erreur d’absence afin de corriger un oubli.
+US4 – En tant qu’administrateur, je veux valider les absences enregistrées afin de garantir la fiabilité du système.
 
-US7 :
-En tant qu’étudiant, je veux recevoir une notification d’absence afin d’être informé en temps réel.
+🔵 Absences des enseignants
+
+US5 – En tant qu’administrateur, je veux enregistrer l’absence d’un enseignant afin d’assurer le suivi du personnel pédagogique.
+
+US6 – En tant qu’enseignant, je veux consulter mes absences afin de connaître ma situation administrative.
+
+US7 – En tant que chef de département, je veux visualiser les absences de tous les enseignants afin d’assurer le suivi disciplinaire.
+
+🔵 Gestion du système
+
+US8 – En tant qu’administrateur, je veux ajouter un enseignant afin qu’il puisse se connecter au système.
+
+US9 – En tant qu’administrateur, je veux ajouter un étudiant afin qu’il soit pris en compte dans l’université.
+
+US10 – En tant qu’étudiant ou enseignant, je veux recevoir une notification en cas d’absence afin d’être informé automatiquement.
+
