@@ -2,14 +2,14 @@
 les acteur du systeme:
 
 
-Étudiant
+1)Étudiant
 
 consulte ses absences
 
-Enseignant
+2)Enseignant
 
 enregistre les absences de ses étudiants
 
-Administrateur
+3)Administrateur
 
 gère les classes, modules et enseignants
