@@ -1,6 +1,25 @@
-Vision du produit – Gestion des absences
 
-Aujourd’hui, les enseignants doivent gérer les absences manuellement (papier, Excel), ce qui entraîne des erreurs, de la perte de temps et une mauvaise centralisation des données.
-Le public cible est : les étudiants, les enseignants et l’administration.
-L’objectif du produit est de permettre une gestion simple, rapide et automatisée des absences.
-Valeur ajoutée : gain de temps, réduction des erreurs, centralisation des absences, meilleure communication avec les étudiants.
+##Probleme a resoudre:
+Dans les universités, le suivi des absences des étudiants et des enseignants 
+se fait souvent manuellement, ce qui provoque des erreurs, un manque de transparence et une mauvaise organisation.
+
+##les objectif:
+Cette application vise à permettre à l’administration de suivre toutes les absences :
+
+-absences des étudiants
+
+-absences des enseignants
+Les objectifs sont :
+
+automatiser l’enregistrement des absences
+
+donner une vue claire sur les absences de chaque personne
+
+permettre à l’administration de corriger ou modifier les données
+
+faciliter la communication entre administration, enseignants et étudiants
+
+La valeur ajoutée : transparence totale, réduction des erreurs, gain de temps, système centralisé pour toute l’université.
+
+
+Le public cible est : administrateurs, enseignants, étudiants et chef de département.
