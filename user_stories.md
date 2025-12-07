@@ -1,3 +1,6 @@
+
+Les 7 User Stories:
+
 Format : “En tant que…, je veux…, afin de…”
 
 US1 :
